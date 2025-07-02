@@ -16,6 +16,7 @@ To evaluate semantic consistency scores of urban blocks, run the following comma
 
 ```bash
 python test.py --threshold 0.8
+````markdown
 
 
 This will generate semantic coherence score visualizations for:
