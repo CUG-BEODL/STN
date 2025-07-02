@@ -8,6 +8,8 @@ from dataset import Label
 import json
 from tqdm import tqdm 
 import argparse
+from util import vis
+
 
 class DenseSamplingDataset(Dataset):
     def __init__(self, npy_file):
@@ -36,16 +38,16 @@ def collate_fn(batch):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Temporal Model Prediction Script")
     parser.add_argument('--checkpoint_path', type=str, 
-                        default='checkpoints/temporal_checkpoint_epoch100.pth',
+                        default='checkpoints/temporal_checkpoint_epoch_wh.pth',
                         help='Path to the model checkpoint file.')
     parser.add_argument('--output_dir', type=str, 
-                        default='0-2_predict',
+                        default='predict',
                         help='Directory to save prediction results.')
     parser.add_argument('--data_dir', type=str, 
-                        default='normalize_dataset',
+                        default='dataset',
                         help='Directory containing the .npy block data.')
     parser.add_argument('--output_file', type=str, 
-                        default='predict.txt',
+                        default='demo.txt',
                         help='Name of the output text file for results.')
     parser.add_argument('--threshold', type=float, 
                         default=0.6,
@@ -59,7 +61,7 @@ if __name__ == '__main__':
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    for block_id in tqdm(Label.test_dict.keys(), desc="Processing Blocks"):
+    for block_id in tqdm(Label.demo_wh.keys(), desc="Processing Blocks"):
         npy_file = os.path.join(args.data_dir, f'{block_id}.npy')
         
         if not os.path.exists(npy_file):
@@ -122,3 +124,4 @@ if __name__ == '__main__':
             summary = f"\nBlock {block_id} Significant Changes: {significant_changes}, class = {classification}\n{'-'*40}"
             file.write(summary + "\n")
             print(summary)
+        vis.plot_block_probabilities(block_id)

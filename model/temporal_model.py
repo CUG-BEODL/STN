@@ -1,3 +1,6 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))  # 添加当前脚本所在目录到 Python 路
 import torch
 import torch.nn as nn
 from torchvision.models import resnet50
@@ -143,13 +146,13 @@ class ResNet(nn.Module):
         return x
 
 
-def resnet18(pretrained=False, model_root=None, **kwargs):
+def resnet_18(pretrained=False, model_root=None, **kwargs):
     model = ResNet(BasicBlock, [2, 2, 2, 2], **kwargs)
     if pretrained:
         misc.load_state_dict(model, model_urls['resnet18'], model_root)
     return model
 
-def resnet50(pretrained=False, model_root=None, **kwargs):
+def resnet_50(pretrained=False, model_root=None, **kwargs):
     model = ResNet(Bottleneck, [3, 4, 6, 3], **kwargs)
     if pretrained:
         misc.load_state_dict(model, model_urls['resnet50'], model_root)

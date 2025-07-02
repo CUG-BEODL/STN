@@ -1,0 +1,100 @@
+
+
+—— Block 46 Results ——
+Slice 2: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 3: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 4: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 5: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 6: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 7: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 8: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 9: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 10: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 11: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 12: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 13: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 14: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 15: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 16: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 17: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 18: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 19: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 20: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 21: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 22: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 23: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 24: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 25: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 26: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 27: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 28: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 29: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 30: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 31: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 32: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 33: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 34: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 35: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 36: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 37: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 38: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 39: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 40: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 41: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 42: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 43: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 44: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 45: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+
+Block 46 Significant Changes: [], class = 0
+----------------------------------------
+
+
+—— Block 1932 Results ——
+Slice 2: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 3: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 4: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 5: Score0 = 0.9996, Score1 = 0.0004, Score2 = 0.0000, Predicted Class = 0
+Slice 6: Score0 = 0.0000, Score1 = 0.0008, Score2 = 0.9992, Predicted Class = 2
+Slice 7: Score0 = 0.0023, Score1 = 0.0001, Score2 = 0.9976, Predicted Class = 2
+Slice 8: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 9: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 10: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 11: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 12: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 13: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 14: Score0 = 0.9998, Score1 = 0.0002, Score2 = 0.0000, Predicted Class = 0
+Slice 15: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 16: Score0 = 0.9995, Score1 = 0.0000, Score2 = 0.0005, Predicted Class = 0
+Slice 17: Score0 = 0.9992, Score1 = 0.0000, Score2 = 0.0008, Predicted Class = 0
+Slice 18: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 19: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 20: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 21: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 22: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 23: Score0 = 0.9998, Score1 = 0.0000, Score2 = 0.0002, Predicted Class = 0
+Slice 24: Score0 = 0.9999, Score1 = 0.0000, Score2 = 0.0001, Predicted Class = 0
+Slice 25: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 26: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 27: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 28: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 29: Score0 = 0.9999, Score1 = 0.0001, Score2 = 0.0000, Predicted Class = 0
+Slice 30: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 31: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 32: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 33: Score0 = 0.9999, Score1 = 0.0000, Score2 = 0.0001, Predicted Class = 0
+Slice 34: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 35: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 36: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 37: Score0 = 0.9998, Score1 = 0.0000, Score2 = 0.0001, Predicted Class = 0
+Slice 38: Score0 = 0.9998, Score1 = 0.0000, Score2 = 0.0002, Predicted Class = 0
+Slice 39: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 40: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 41: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 42: Score0 = 0.9952, Score1 = 0.0000, Score2 = 0.0048, Predicted Class = 0
+Slice 43: Score0 = 0.9605, Score1 = 0.0000, Score2 = 0.0395, Predicted Class = 0
+Slice 44: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+Slice 45: Score0 = 1.0000, Score1 = 0.0000, Score2 = 0.0000, Predicted Class = 0
+
+Block 1932 Significant Changes: [6, 7], class = 2
+----------------------------------------
