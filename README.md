@@ -6,6 +6,16 @@
 
 ## 🔍 Project Overview
 
-Semantic-TemporalNet is a deep learning framework designed to detect refined temporal changes in urban blocks using multi-temporal remote sensing imagry.
+Semantic-TemporalNet is a deep learning framework designed to detect refined temporal changes in urban blocks using multi-temporal remote sensing imagery.
 
 This project code is partially inspired by the architecture in [pytorch-playground.](https://github.com/aaron-xichen/pytorch-playground/)
+
+## 🧪 Example Inference
+
+To evaluate semantic consistency scores of urban blocks, run the following command using the default parser settings:
+
+```bash
+python test.py --threshold 0.8
+This will generate semantic coherence score visualizations for:
+
+(img/46.png)
